@@ -1,7 +1,7 @@
 {
   "name": "posthtml-richtypo",
   "description": "PostHTML Richtypo plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "email": "mail@grawl.ru",
     "name": "Даниил Пронин",

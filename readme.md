@@ -66,9 +66,9 @@ Default: [`richtypo-rules-en`](https://www.npmjs.com/package/richtypo-rules-en)
 
 ### Contributing
 
-See [PostHTML Guidelines](https://github.com/posthtml/posthtml/tree/master/docs) and [contribution guide](CONTRIBUTING.md).
+See [PostHTML Guidelines](https://github.com/posthtml/posthtml/tree/master/docs) and [contribution guide](contributing.md).
 
-### License [MIT](LICENSE)
+### License [MIT](license)
 
 [Richtypo]: https://github.com/sapegin/richtypo.js
 
