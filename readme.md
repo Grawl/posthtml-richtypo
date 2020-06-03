@@ -72,20 +72,20 @@ See [PostHTML Guidelines](https://github.com/posthtml/posthtml/tree/master/docs)
 
 [Richtypo]: https://github.com/sapegin/richtypo.js
 
-[npm]: https://img.shields.io/npm/v/posthtml.svg
-[npm-url]: https://npmjs.com/package/posthtml
+[npm]: https://img.shields.io/npm/v/posthtml-richtypo.svg
+[npm-url]: https://npmjs.com/package/posthtml-richtypo
 
-[deps]: https://david-dm.org/posthtml/posthtml.svg
-[deps-url]: https://david-dm.org/posthtml/posthtml
+[deps]: https://david-dm.org/Grawl/posthtml-richtypo.svg
+[deps-url]: https://david-dm.org/Grawl/posthtml-richtypo
 
 [style]: https://img.shields.io/badge/code%20style-standard-yellow.svg
 [style-url]: http://standardjs.com/
 
-[build]: https://travis-ci.org/posthtml/posthtml.svg?branch=master
-[build-badge]: https://travis-ci.org/posthtml/posthtml?branch=master
+[build]: https://travis-ci.org/Grawl/posthtml-richtypo.svg?branch=master
+[build-badge]: https://travis-ci.org/Grawl/posthtml-richtypo?branch=master
 
-[cover]: https://coveralls.io/repos/posthtml/posthtml/badge.svg?branch=master
-[cover-badge]: https://coveralls.io/r/posthtml/posthtml?branch=master
+[cover]: https://coveralls.io/repos/Grawl/posthtml-richtypo/badge.svg?branch=master
+[cover-badge]: https://coveralls.io/r/Grawl/posthtml-richtypo?branch=master
 
 
 [chat]: https://badges.gitter.im/posthtml/posthtml.svg
