@@ -54,15 +54,23 @@ posthtml()
 
 ## Options
 
-### `{string} attribute` to change text into
+#### `{string} attribute` to change text into
 
 Default: `'data-richtypo'`
 
-### `{array} rules` to apply typography
+#### `{array} rules` to apply typography
 
 Default: [`richtypo-rules-en`](https://www.npmjs.com/package/richtypo-rules-en)
 
 [Richtypo rules](https://github.com/sapegin/richtypo.js/tree/master/packages)
+
+## TODO
+
+- [ ] More flexible replacement for 'attribute' (but PostHTML have nothing like CSS selectors)
+- [ ] Allow providing rules by names, like 'ru' or 'fr'
+- [ ] Remove `richtypo-rules-en` from dependencies, use common rules as fallback
+- [ ] Fix tests
+- [ ] Fix coverage
 
 ### Contributing
 
