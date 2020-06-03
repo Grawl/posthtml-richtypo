@@ -53,7 +53,7 @@ Pull requests are the greatest contributions, so be sure they are focused in sco
 
 5. Now [open a pull request] with a clear title and description.
 
-[already been reported]: issues
-[fork this project]:     fork
+[already been reported]: https://github.com/Grawl/posthtml-richtypo/issues
+[fork this project]:     https://github.com/Grawl/posthtml-richtypo/fork
 [live example]:          http://codesandbox.io
 [open a pull request]:   https://help.github.com/articles/using-pull-requests/
